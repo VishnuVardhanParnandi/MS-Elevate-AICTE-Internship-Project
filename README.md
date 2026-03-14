@@ -179,9 +179,9 @@ These insights support strategic business decision-making.
 
 🎛 Dynamic filters and slicers
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎯 Project Outcome
 
+🎯 Project Outcome
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project demonstrates how Power BI can transform raw retail data into powerful business intelligence insights.
 
 The dashboard enables stakeholders to:
@@ -196,9 +196,9 @@ Detect business growth opportunities
 
 Ultimately helping organizations make smarter data-driven decisions.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 Future Improvements
 
+🚀 Future Improvements
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔄 Integration with real-time sales data
 
 🤖 Implement sales forecasting using machine learning
