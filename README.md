@@ -3,7 +3,7 @@
 🚀 Business Intelligence Project using Power BI
 
 📌 Overview
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project presents a Retail Sales Analytics Dashboard built using Microsoft Power BI to analyze business performance using the Sample Superstore dataset.
 
 The objective of this project is to transform raw retail transaction data into meaningful business insights that support data-driven decision-making.
