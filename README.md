@@ -58,7 +58,7 @@ This solution enables users to explore business insights through interactive vis
 📊 Dashboard Modules
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 💰 Sales Overview
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Provides a high-level summary of overall business performance.
 
 Key metrics include:
@@ -129,11 +129,13 @@ These insights support strategic business decision-making.
 
 🛠 Tools & Technologies
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧰 Tool	📋 Purpose
-Power BI	Dashboard development & visualization
-Power Query	Data cleaning & transformation
-DAX	Analytical calculations & measures
-Sample Superstore Dataset	Retail sales dataset
+| 🧰 Tool                       | 📋 Purpose                            |
+| ----------------------------- | ------------------------------------- |
+| **Power BI**                  | Dashboard development & visualization |
+| **Power Query**               | Data cleaning & transformation        |
+| **DAX**                       | Analytical calculations & measures    |
+| **Sample Superstore Dataset** | Retail sales dataset                  |
+
 
 
 
