@@ -142,15 +142,25 @@ These insights support strategic business decision-making.
 ⚙️ Project Workflow
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Data Collection
+
         ↓
+        
 🧹 Data Cleaning (Power Query)
+
         ↓
+        
 🧩 Data Modeling
+
         ↓
+        
 📐 DAX Measures Creation
+
         ↓
+        
 📊 Dashboard Development
+
         ↓
+        
 📈 Business Insights
 
 
