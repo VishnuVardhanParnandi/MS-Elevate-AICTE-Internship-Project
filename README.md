@@ -1,5 +1,7 @@
 📊 Retail Sales Analytics Dashboard
+
 🚀 Business Intelligence Project using Power BI
+
 📌 Overview
 
 This project presents a Retail Sales Analytics Dashboard built using Microsoft Power BI to analyze business performance using the Sample Superstore dataset.
